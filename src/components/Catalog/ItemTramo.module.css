@@ -1,0 +1,56 @@
+.Button
+{
+background-color: rgb(255, 255, 255);
+flex:auto;
+height: 70px;
+font-size: 20px;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+color: #F26727;
+}
+
+.Card
+{
+    display: flex;
+    justify-content: center;
+    padding:  20px;
+}
+
+.Card.rojo
+{
+   background-color: #a63b33;
+   
+}
+
+.Card.verde
+{
+   background-color: #33a633;
+   
+  }
+
+.title{
+    flex:auto;
+    margin-left: 60px;
+    color:#F26727;
+    
+}
+
+.title.verde
+{
+  color:azure;
+  
+}
+
+.title.rojo
+{
+  color:azure;
+}
+
+
+
+@media screen and (max-width: 900px) {
+    .Button {
+      font-size: 14px;
+    }
+  }

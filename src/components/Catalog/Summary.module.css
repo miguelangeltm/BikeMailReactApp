@@ -1,0 +1,18 @@
+.summary {
+    text-align: center;
+    max-width: 60rem;
+    width: 90%;
+    margin: 8rem auto;
+    position: relative;
+    background-color: white;
+    color: #383838;
+    border-radius: 14px;
+    padding: 1rem;
+    
+  }
+  
+  .summary h2 {
+    color: #F26727;
+    font-size: 2rem;
+    margin-top: 0;
+  }
