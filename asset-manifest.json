@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BikeMailReactApp/static/css/main.f58df86f.chunk.css",
+    "main.js": "/BikeMailReactApp/static/js/main.7c65ab1b.chunk.js",
+    "main.js.map": "/BikeMailReactApp/static/js/main.7c65ab1b.chunk.js.map",
+    "runtime-main.js": "/BikeMailReactApp/static/js/runtime-main.c021d13e.js",
+    "runtime-main.js.map": "/BikeMailReactApp/static/js/runtime-main.c021d13e.js.map",
+    "static/js/2.f50ac349.chunk.js": "/BikeMailReactApp/static/js/2.f50ac349.chunk.js",
+    "static/js/2.f50ac349.chunk.js.map": "/BikeMailReactApp/static/js/2.f50ac349.chunk.js.map",
+    "index.html": "/BikeMailReactApp/index.html",
+    "static/css/main.f58df86f.chunk.css.map": "/BikeMailReactApp/static/css/main.f58df86f.chunk.css.map",
+    "static/js/2.f50ac349.chunk.js.LICENSE.txt": "/BikeMailReactApp/static/js/2.f50ac349.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c021d13e.js",
+    "static/js/2.f50ac349.chunk.js",
+    "static/css/main.f58df86f.chunk.css",
+    "static/js/main.7c65ab1b.chunk.js"
+  ]
+}
