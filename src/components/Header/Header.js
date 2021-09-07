@@ -1,10 +1,10 @@
 import React, { Fragment } from "react";
 import styles from "./Header.module.css";
 
-const Header = (props) => {
+const Header = ({onSelectHandler}) => {
     
   const selectHandler = (event) => {
-    props.onSelectHandler(event.target.value);
+    onSelectHandler(event.target.value);
   };
 
   return (

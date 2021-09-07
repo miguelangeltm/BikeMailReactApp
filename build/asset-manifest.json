@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MailReactApp/static/css/main.f58df86f.chunk.css",
+    "main.js": "/MailReactApp/static/js/main.263d5510.chunk.js",
+    "main.js.map": "/MailReactApp/static/js/main.263d5510.chunk.js.map",
+    "runtime-main.js": "/MailReactApp/static/js/runtime-main.f55dcf62.js",
+    "runtime-main.js.map": "/MailReactApp/static/js/runtime-main.f55dcf62.js.map",
+    "static/js/2.f50ac349.chunk.js": "/MailReactApp/static/js/2.f50ac349.chunk.js",
+    "static/js/2.f50ac349.chunk.js.map": "/MailReactApp/static/js/2.f50ac349.chunk.js.map",
+    "index.html": "/MailReactApp/index.html",
+    "static/css/main.f58df86f.chunk.css.map": "/MailReactApp/static/css/main.f58df86f.chunk.css.map",
+    "static/js/2.f50ac349.chunk.js.LICENSE.txt": "/MailReactApp/static/js/2.f50ac349.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55dcf62.js",
+    "static/js/2.f50ac349.chunk.js",
+    "static/css/main.f58df86f.chunk.css",
+    "static/js/main.263d5510.chunk.js"
+  ]
+}
