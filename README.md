@@ -1,4 +1,4 @@
-# BikeMailReactApp
+# :motor_scooter: BikeMailReactApp
 
 Check it out here! https://mikevitamina.github.io/BikeMailReactApp/
 
