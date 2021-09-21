@@ -19,7 +19,7 @@ then, on your VS Code type
 ```
 npm install
 ```
-wait and the type 
+wait and then type 
 ```
 npm start
 ```
