@@ -1,6 +1,6 @@
 # :motor_scooter: BikeMailReactApp
 
-Check it out here! https://mikevitamina.github.io/BikeMailReactApp/
+Check it out here! https://miguelangeltm.github.io/BikeMailReactApp/
 
 List that contains time slots, in 30-minute intervals. That starts at 8am and ends at 8pm
 The company has availability of 8 motorcyclists every 30 min
